@@ -1,4 +1,4 @@
-# TODOTaskList
+# Basic Algorithms
 
 #Install python
 brew install python3
@@ -22,4 +22,4 @@ source env/bin/activate
 pip install -r requirement.txt
 
 # Run application using
-python <nameoffile.py># algorithms
+python <nameoffile.py>
