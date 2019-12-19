@@ -81,9 +81,6 @@ def partition(arr, low, high):
     arr[i+1], arr[high] = arr[high], arr[i+1]
     return (i + 1)
 
-def heap_sort():
-    pass
-
 if __name__=='__main__':
     arr = [64, 25, 12, 22, 11]
     print ("****** Selection Sort *******")
